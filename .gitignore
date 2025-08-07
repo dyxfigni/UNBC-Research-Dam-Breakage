@@ -361,3 +361,14 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/Assets/ProceduralTerrainPainter
+/Assets/Scripts/LasToXYZ/LasFiles/bc_093g086_4_4_3_xyes_8_utm10_2019.laz
+/Assets/Scripts/LasToXYZ/XYZFiles/output.xyz
+/Assets/Scripts/LasToXYZ/las2txt64.exe
+/Library
+/ProjectSettings
+/Temp
+/UserSettings
+/Assets/Settings
+/Assets/TutorialInfo
+/Assets/Scripts/LAStools/LAStools
